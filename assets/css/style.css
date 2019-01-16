@@ -524,6 +524,9 @@ SOCIAL ICON
 .navbar-custom .navbar-toggle .icon-bar {
     background: #222;
 }
+.navbar-brand img {
+    max-width: 180px;
+}
 
 
 
